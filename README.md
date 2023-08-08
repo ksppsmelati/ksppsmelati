@@ -10,7 +10,7 @@ KSPPS Melati traces its origins back to 1997 when the Yayasan Bakti Sosial Melat
 
 In 1999, BMT officially transformed into a cooperative, named "Koperasi Serba Usaha Baittul Maal Wat Tamwil (KSU BMT) Melati." The cooperative was legally established to foster the growth of community businesses and local traders in markets and residential areas. Over the years, KSPPS Melati has consistently grown, playing a pivotal role in the local community's prosperity.
 
-As the cooperative's focus evolved towards financial services, in 2008, KSU BMT Melati underwent a significant transformation, transitioning from a Cooperative of Various Businesses (Koperasi Serba Usaha) to a Sharia Financial Services Cooperative (Koperasi Jasa Keuangan Syariah or KJKS), following member consensus. Further transformation occurred in 2015, when the cooperative transitioned into KSPPS Melati (Koperasi Simpan Pinjam Pekerja Seni Melati), reaffirming its commitment to financial services rooted in sharia principles.
+As the cooperative's focus evolved towards financial services, in 2008, KSU BMT Melati underwent a significant transformation, transitioning from a Cooperative of Various Businesses (Koperasi Serba Usaha) to a Sharia Financial Services Cooperative (Koperasi Jasa Keuangan Syariah or KJKS), following member consensus. Further transformation occurred in 2015, when the cooperative transitioned into KSPPS Melati (Koperasi Simpan Pinjam dan Pembiayaan Syariah), reaffirming its commitment to financial services rooted in sharia principles.
 
 ## Repository Contents
 
