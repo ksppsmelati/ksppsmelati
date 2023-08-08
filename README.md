@@ -2,7 +2,7 @@
 
 ![KSPPS Melati Logo](logo.png)
 
-Welcome to the official GitHub repository of KSPPS Melati (Koperasi Simpan Pinjam Pekerja Seni Melati). This repository contains documentation, resources, and code related to our cooperative organization focused on empowering the local economy and providing microfinance and financial services.
+Welcome to the official GitHub repository of KSPPS Melati (Koperasi Simpan Pinjam dan Pembiayaan Syariah). This repository contains documentation, resources, and code related to our cooperative organization focused on empowering the local economy and providing microfinance and financial services.
 
 ## About KSPPS Melati
 
