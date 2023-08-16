@@ -47,7 +47,7 @@ Reach us through these channels:
 
 - Phone: (0286) 323260, +62 8222-6222-2116
 - Office Address: Jl. Pangeran Diponegoro Km. 01 Bugangan, Wonosobo.
-- Email: bmtmelati@gmail.com
+- Email: it@bmtmelati.com
 - Website: [https://www.bmtmelati.com](https://www.bmtmelati.com)
 
 Thank you for your interest in KSPPS Melati!
